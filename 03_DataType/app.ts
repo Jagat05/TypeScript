@@ -127,10 +127,16 @@ function throwError(): never {
 
 
 //?---------------------------------------------------------
+//!Type Annotations
+//Type annotations are how you explicitly tell TypeScript the data type.
+//!All the Examples given above comes under type Annotations .
+ let age1: number = 25;   // type annotation
+
 //!Type Inference (Important)
-// TypeScript automatically detects types.
+// Type inference is TypeScript automatically deciding the type when you don’t annotate. TypeScript automatically detects types.
 
 let count = 5; // number
 // count = "five"; //Error
 
 //?---------------------------------------------------------
+
