@@ -18,13 +18,13 @@ Beginner-friendly TypeScript practice and notes. This repository is a step-by-st
 
 * TypeScript = JavaScript + Types
 
-### 1️⃣ Setup & Compilation
+### 2️⃣ Setup & Compilation
 
 * Installing TypeScript
 * Writing `.ts` files
 * Compiling TypeScript to JavaScript
 
-### 2️⃣ Data Types
+### 3️⃣ Data Types
 
 * number, string, boolean
 * any, unknown
@@ -33,6 +33,32 @@ Beginner-friendly TypeScript practice and notes. This repository is a step-by-st
 * type alias, enum
 * void, never
 * Type inference
+
+### 4️⃣ Functions
+
+* Function syntax with type annotations
+* Typed parameters and return types
+* `void` functions (no return value)
+* Optional parameters using `?`
+* Default parameters
+* Arrow functions
+* Function types
+
+### 5️⃣ Objects
+
+* Objects with inline types
+* Required vs optional properties
+* Object type safety (no missing or extra properties)
+* Type aliases for objects (best practice)
+* Using objects as function parameters
+
+### 6️⃣
+### 7️⃣
+### 8️⃣
+### 9️⃣
+### 🔟
+
+---
 
 
 Happy Learning 🚀
