@@ -42,7 +42,6 @@ Beginner-friendly TypeScript practice and notes. This repository is a step-by-st
 * Optional parameters using `?`
 * Default parameters
 * Arrow functions
-* Function types
 
 ### 5️⃣ Objects
 
@@ -50,9 +49,18 @@ Beginner-friendly TypeScript practice and notes. This repository is a step-by-st
 * Required vs optional properties
 * Object type safety (no missing or extra properties)
 * Type aliases for objects (best practice)
-* Using objects as function parameters
 
-### 6️⃣
+### 6️⃣ Interfaces
+
+* Defining object structure using interfaces
+* Interface vs inline object types
+* Optional properties
+* Readonly properties
+* Methods inside interfaces
+* Function type interfaces
+* Extending interfaces
+* Interface merging
+
 ### 7️⃣
 ### 8️⃣
 ### 9️⃣
